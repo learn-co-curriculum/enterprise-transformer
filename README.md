@@ -7,7 +7,7 @@
 
 
 
-**BERT** is Google's **bidrectional encoder representations from transformers**. Bert is also half of the popular *Sesame Street* duo.
+**BERT** is Google's **bidirectional encoder representations from transformers**. Bert is also half of the popular *Sesame Street* duo.
 Below is [Bert as a Transformer](https://towardsdatascience.com/build-a-bert-sci-kit-transformer-59d60ddd54a5).
 
 <img src="images/bertransformer.png" width="600">
@@ -105,7 +105,7 @@ There are two final layers between the decoder block and the translation. The *l
 
 ### Next up: Applying transformers to NLP with BERT
 
-Now that we have a theoretical understanding of transformers, we'll now learn how to use the BERT (bidrectional encoder representations from transformers) model for natural language processing.
+Now that we have a theoretical understanding of transformers, we'll now learn how to use the BERT (bidirectional encoder representations from transformers) model for natural language processing.
 
 ### Some References
 
@@ -115,5 +115,5 @@ Here is the original 2017 paper that introduced the transformer.
 
 In addition to discussing transformers, these links also introduce BERT.
 
-*   [Intuitive Explanation of BERT - Bidrectional Transformers for NLP](https://towardsdatascience.com/intuitive-explanation-of-bert-bidirectional-transformers-for-nlp-cdc1efc69c1e)
-*   [Understanding BERT - (Bidrectional Encoder Representations from Transformers](https://medium.com/p/45ee6cd51eef)
+*   [Intuitive Explanation of BERT - Bidirectional Transformers for NLP](https://towardsdatascience.com/intuitive-explanation-of-bert-bidirectional-transformers-for-nlp-cdc1efc69c1e)
+*   [Understanding BERT - (Bidirectional Encoder Representations from Transformers](https://medium.com/p/45ee6cd51eef)
